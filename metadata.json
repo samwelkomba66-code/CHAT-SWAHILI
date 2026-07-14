@@ -1,0 +1,6 @@
+{
+  "name": "CHATI KISWAHILI",
+  "description": "Connect foreign learners (wazungu) with local Swahili tutors in Tanzania for paid lessons and cultural exchange chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
